@@ -2,10 +2,10 @@
 
 #include <iostream>
 
-using namespace std;
+//using namespace std; Never Use namespace std
 
 int main()
 {
-    cout << "I " << "love " << "coding." << endl;
+    std::cout << "I " << "love " << "coding." << std::endl;
     return 0;
 }
