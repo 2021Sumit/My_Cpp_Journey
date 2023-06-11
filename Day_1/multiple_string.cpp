@@ -1,10 +1,11 @@
 #include <iostream>
 
-using namespace std;
+//using namespace std; Never Use namespace std
 
 int main()
 {
-    cout << "Let" << " " << "the journey begin." << endl;
+    // Use '' for single characters instead of ""
+    std::cout << "Let" << ' ' << "the journey begin." << std::endl;
     // printing three strings together
     // "Let"
     //" "
