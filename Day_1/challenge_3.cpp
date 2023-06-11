@@ -8,10 +8,10 @@ Separate each number using a comma followed by an empty space.
 
 #include <iostream>
 
-using namespace std;
+//using namespace std; Never Use namespace std
 
 int main()
 {
-    cout << 5.55 << ", " << 6.66 << ", " << 7.77 << endl;
+    std::cout << 5.55 << ", " << 6.66 << ", " << 7.77 << std::endl;
     return 0;
 }
