@@ -3,4 +3,4 @@ Hi! This project is just for fun and learning. All my C++ learning related codes
 Thanks for visiting!<br>
 Have a great day!<br>
 Blog post links:<br>
-[Day_1](https://sumitcpp.blogspot.com/2023/06/day1.html)  [Day_2](https://sumitcpp.blogspot.com/2023/06/day2.html)
+[Day_1](https://sumitcpp.blogspot.com/2023/06/day1.html)  [Day_2](https://sumitcpp.blogspot.com/2023/06/day2.html)  [Day_3](https://sumitcpp.blogspot.com/2023/06/day3.html)
